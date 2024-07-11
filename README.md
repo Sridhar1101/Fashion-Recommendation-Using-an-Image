@@ -1,2 +1,1 @@
-# Fashion-Recommendation-Using-an-Image
-\Fashion Recommendation using AI: This project utilizes deep learning with the VGG16 model to recommend fashion items based on image similarity. Enhance user experiences in fashion discovery with cutting-edge AI technology.
+Fashion Recommendation using AI implements a deep learning-based system leveraging the VGG16 model for recommending fashion items based on image similarity. This project utilizes TensorFlow and Keras for image preprocessing and feature extraction, enabling the identification of visually similar fashion items from a curated dataset. Users can run recommend_fashion_items_cnn.py to generate recommendations for input fashion images, facilitating personalized shopping experiences through advanced AI technology.
